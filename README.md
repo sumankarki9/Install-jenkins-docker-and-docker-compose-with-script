@@ -3,7 +3,7 @@ Follow these steps to set up and run the installation:
 ## Clone the Repository
 
 ```
-git clone https://github.com/codeboylal/jenkins-docker-and-docker-compose-installation-script.git
+git clone https://github.com/sumankarki9/Install-jenkins-docker-and-docker-compose-with-script.git
 ```
 
 ## Navigate to the Script Directory
